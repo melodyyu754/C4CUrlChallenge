@@ -1,3 +1,12 @@
+# Improvements
+1) Make the URL Shortener website so that it's not hosted on a local port, but an actual website.
+2) Add authentication for the URL so that only valid URLs that begin with https and http can be accepted.
+3) Create a README file.
+
+## A Quick Note
+I completed this URL Shortener while working 24/7 at a summer camp in Vermont, so I didn't have as much time as I wanted to make it as I wanted. 
+I do have a break coming up in the next couple of days after the application deadline, and I plan to revisit the coding challenge to better understand and improve it.
+
 # Everything
 
 This is the C4C monorepo containing all of our active projects.
