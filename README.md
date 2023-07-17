@@ -1,7 +1,8 @@
 # Improvements
 1) Make the URL Shortener website so that it's not hosted on a local port, but an actual website.
 2) Add authentication for the URL so that only valid URLs that begin with https and http can be accepted.
-3) Create a README file.
+3) Create an informative README file.
+
 
 ## A Quick Note
 I completed this URL Shortener while working 24/7 at a summer camp in Vermont, so I didn't have as much time as I wanted to make it as I wanted. 
